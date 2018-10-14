@@ -7,7 +7,7 @@ import { WebBrowser, MapView } from 'expo';
 import styled from 'styled-components';
 import Geocoder from 'react-native-geocoding';
 
-Geocoder.init('AIzaSyCR4uEFeksRL8oqgg9dXM7npxdsPArJQak')
+Geocoder.init('AIzaSyDHeefTjaewCdDWnNt_Eq8Nhn2AOMGdG80')
 
 const SearchInput = styled.TextInput`
   color: black;
